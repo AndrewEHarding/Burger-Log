@@ -1,7 +1,7 @@
 # Burger-Log
 ### A Node Express Handlebars powered way to track your burgers!
 
-[Heroku Link!](https://dashboard.heroku.com/apps/burger-log)
+[Heroku Link!](https://burger-log.herokuapp.com/)
 
 This app is a great way to keep track of Burgers you have and have not yet gotten to devour!
 
